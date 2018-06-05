@@ -8,7 +8,6 @@
 # builder/GoogleCompute: source_image_family / source_image exactly one should be required [GH-111]
 # provisioner: only/except conditionals are missing [GH-110]
 
-
 ## 0.8.0 (May 30, 2018)
 
 packer v1.2.4 feature sync [GH-107]
